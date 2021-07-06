@@ -33,9 +33,9 @@
     <tickerType>Normal</tickerType>
     <size>(1,3)</size>
     <costList>
-      <Steel>100</Steel>
+      <Steel>75</Steel>
       <ComponentIndustrial>2</ComponentIndustrial>
-	  <WoodLog>100</WoodLog>
+	  <WoodLog>75</WoodLog>
     </costList>
     <comps>
       <li Class="CompProperties_Power">
