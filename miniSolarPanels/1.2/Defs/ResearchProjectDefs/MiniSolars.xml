@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+
+ 
+ <ResearchProjectDef>
+    <defName>SmallSolars</defName>
+    <label>minurature solar panels</label>
+	<tab>Main</tab>
+    <description>Teaches your constructors on how to build the same power output solar panel in a more compact area.</description>
+    <baseCost>2500</baseCost>
+    <techLevel>Industrial</techLevel>
+    <prerequisites>
+      <li>SolarPanels</li>
+    </prerequisites>
+    <researchViewX>8</researchViewX>
+    <researchViewY>0.83</researchViewY>
+  </ResearchProjectDef>
+  
+  
+  
+  </Defs>
