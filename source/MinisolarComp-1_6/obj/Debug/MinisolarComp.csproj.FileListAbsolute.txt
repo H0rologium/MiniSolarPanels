@@ -1,0 +1,4 @@
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Mini Solar Panels\Assembly\MinisolarComp.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Mini Solar Panels\Source\MinisolarComp\obj\Debug\MinisolarComp.csprojAssemblyReference.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Mini Solar Panels\Source\MinisolarComp\obj\Debug\MinisolarComp.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Mini Solar Panels\Source\MinisolarComp\obj\Debug\MinisolarComp.dll
